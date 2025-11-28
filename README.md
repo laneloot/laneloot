@@ -14,11 +14,14 @@ I enjoy building scalable backend systems, designing clean APIs, and deploying r
 
 ### 🗄️ Databases
 - **PostgreSQL**
+- **MySQL**
+- **MongoDB**
 - SQLite (for development)
 
 ### ☁️ Cloud & DevOps
 - **AWS** (EC2, S3, IAM, RDS, CloudWatch, Lambda basics)
 - **Docker** (containerization)
+- **Nginx**
 - Git & GitHub for version control
 
 ---
