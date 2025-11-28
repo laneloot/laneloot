@@ -1,20 +1,38 @@
-I'm a Django developer with over 5 years of professional experience, specializing in Django REST Framework (DRF) and AWS. I love building scalable backend systems, designing clean APIs, and deploying reliable cloud-based applications.
+# Hi, I'm Laneloot 👋
 
-🚀 Tech Stack
-Backend
+I'm a Django developer with over **5 years of experience**, specializing in the **Django REST Framework (DRF)** and **Amazon Web Services (AWS)**.  
+I enjoy building scalable backend systems, designing clean APIs, and deploying reliable cloud-based applications.
 
-Python, Django, Django REST Framework (DRF)
+---
 
-Celery (background tasks)
+## 🔧 Tech Stack
 
-Redis (caching & task broker)
+### 💻 Backend
+- **Python**, **Django**, **Django REST Framework (DRF)**
+- **Celery** (asynchronous tasks)
+- **Redis** (caching, task broker)
 
-PostgreSQL
+### 🗄️ Databases
+- **PostgreSQL**
+- SQLite (for development)
 
-DevOps / Infrastructure
+### ☁️ Cloud & DevOps
+- **AWS** (EC2, S3, IAM, RDS, CloudWatch, Lambda basics)
+- **Docker** (containerization)
+- Git & GitHub for version control
 
-AWS (EC2, S3, RDS, Lambda, CloudWatch, etc.)
+---
 
-Docker (containerization)
+## 🚀 What I Focus On
+- Building RESTful APIs with DRF  
+- Designing scalable backend architectures  
+- Deploying and managing services on AWS  
+- Improving performance with caching and background tasks  
+- Writing clean, maintainable, production-ready code  
 
-CI/CD (GitHub Actions / AWS pipelines)
+---
+
+## 📫 Contact
+**Email:** laneloot03@gmail.com
+
+Feel free to check out my projects or reach out if you want to collaborate!
