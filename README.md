@@ -1,4 +1,4 @@
-# Hi, I'm Laneloot 👋
+# Hi. 👋
 
 I'm a Django developer with over **5 years of experience**, specializing in the **Django REST Framework (DRF)** and **Amazon Web Services (AWS)**.  
 I enjoy building scalable backend systems, designing clean APIs, and deploying reliable cloud-based applications.
