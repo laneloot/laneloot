@@ -21,7 +21,7 @@ I enjoy building scalable backend systems, designing clean APIs, and deploying r
 ### ☁️ Cloud & DevOps
 - **AWS** (EC2, S3, IAM, RDS, CloudWatch, Lambda basics)
 - **Docker** (containerization)
-- **Nginx**
+- **Nginx** (reverse proxy, load balancing, static file serving)
 - Git & GitHub for version control
 
 ---
